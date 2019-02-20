@@ -1,0 +1,266 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    line-height: 16px;
+    color: #343a3a;
+    font-family: "宋体", Arial;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    -moz--text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+html {
+    font-family: "宋体", Arial;
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    -moz--text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+#container {
+    width: 750px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#container_640 {
+    width: 640px;
+    position: relative;
+    margin: 0 auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+img {
+    border: 0;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.l,
+.left {
+    float: left;
+}
+
+.r,
+.right {
+    float: right;
+}
+
+ul li {
+    list-style: none;
+}
+
+.font22 {
+    font-size: 22px
+}
+
+.font24 {
+    font-size: 24px
+}
+
+.font26 {
+    font-size: 26px
+}
+
+.font28 {
+    font-size: 28px
+}
+
+.hr_20 {
+    clear: both;
+    height: 20px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_30 {
+    clear: both;
+    height: 30px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_40 {
+    clear: both;
+    height: 40px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input[type="text"],
+input[type="tel"],
+button {
+    -webkit-appearance: none;
+}
+
+::-webkit-input-placeholder {
+    /* WebKit browsers */
+    color: #ccc;
+}
+
+:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #ccc;
+    opacity: 1;
+}
+
+::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #ccc;
+    opacity: 1;
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10+ */
+    color: #ccc;
+}
+
+.fixed {
+    *zoom: 1;
+}
+
+.fixed:after {
+    content: ".";
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    display: block;
+}
+
+.mt_40 {
+    margin: 0 40px
+}
+
+.hr_10 {
+    clear: both;
+    height: 10px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_20 {
+    clear: both;
+    height: 20px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_30 {
+    clear: both;
+    height: 30px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_15 {
+    clear: both;
+    height: 15px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_40 {
+    clear: both;
+    height: 40px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.hr_44 {
+    clear: both;
+    height: 44px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.col {
+    color: #8b999a!important
+}
+
+.col a {
+    color: #8b999a!important
+}
+
+header,
+footer,
+section,
+aside,
+details,
+menu,
+article,
+section,
+nav,
+address,
+hgroup,
+figure,
+figcaption,
+legend {
+    display: block;
+    margin: 0;
+    padding: 0
+}
+
+.font-hei {
+    font-family: "微软雅黑", "苹果丽黑";
+}
+
+.color_fff {
+    color: #fff;
+}
+
+input {
+    outline: none;
+}
+
+
+/*PC通用样式*/
+
+
+/*
+.wrapper{width:1000px;margin:0 auto}
+.yb_100{width:100%}
+
+.bgWhite{background-color:#fff}
+.footer{padding:30px 0}
+.footer p{text-align: center;color:#8B999A;font-size:18px;line-height: 28px;font-family: arial,"microsoft yahei"}
+*/
+
+
+/*404页面*/
+
+
+/*
+.error_html{text-align: center}
+.error_html img{margin-top:20%}
+.error_html p{color: #8B999A;line-height: 32px;}
+*/
+
+
+/*关于韦博*/
+
+
+/*
+.aboutCont{margin:20px;height: 74px;line-height: 74px;background-color:#EEFBFB; text-align: center;color: #14767E;font-size:28px}
+.aboutMain{margin:20px;}
+.aboutMain p{line-height: 36px;font-size: 24px;text-indent: 2em;}
+*/
